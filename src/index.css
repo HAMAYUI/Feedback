@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background: #28d6d6;
+}
+.card.reverse {
+    background-color: rgba(0, 0,0,0.4);
+    color : white
+}
